@@ -31,7 +31,7 @@ https://live.enhdtv.com:8081/8060/index.m3u8
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal (1080p)
 #EXTVLCOPT:http-referrer=https://unicanal.com.py/
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(tT0J7X4iDFeT1wzL-DNiABwanUK4S1OcdskgfzJMdoBuc1U-xVs3TFNot0KaJZKKjPjQoioSa7QX34cGR6D1BQs1y_rnZtEGWXK7_YkCmO-6ngFU_TDOpE17GhkzMi-Q)/cloud/3/x9ko9z8/s/live-720.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(lgGdCmuERCtyxqV5K48GJ8ApVrnRi5wIKxPJ2L72wnbupRK09yGIVczIIRMi399tK2Uv-c37Bo6NgGDzzmC7QljsPuGfRVtpADKv5bpRUf7sd5Am_Jqdd-YAdgGHYrda)/cloud/3/x9ko9z8/s/live-720.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.py@SD",Telefuturo (1080p)
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion
